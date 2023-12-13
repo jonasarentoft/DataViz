@@ -280,7 +280,7 @@
         "values": [{"type": "Sphere"}]
       },
       {"name": "rawCrashes",
-        "url": "https://raw.githubusercontent.com/jonasarentoft/DataVizProject/main/data/plane_crash_coordinatesV8.csv",
+        "url": "https://raw.githubusercontent.com/jonasarentoft/DataViz/main/data/plane_crash_coordinatesV8.csv",
         "format": {"type": "csv", "parse": "auto"},
         "transform": [
           {
